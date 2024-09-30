@@ -1,24 +1,18 @@
-# Northern Areas of Pakistan Documentary Website
+# PAK Hidden Gems
 
-A creative project showcasing the breathtaking northern areas of Pakistan through beautiful images and informative descriptions. This website employs a parallax effect, highlighting my passion for travel and patriotism while enhancing my HTML and CSS skills.
+A responsive website showcasing the breathtaking northern areas of Pakistan, featuring beautiful images and short descriptions of various destinations. This project is part of my HTML and CSS learning journey, reflecting my passion for Pakistan, patriotism, and love for travel.
 
 ## Live Demo
-You can view the live version of the website [here](https://duaascripts.github.io/PAK_Hidden_Gems/).
+[Visit PAK Hidden Gems](https://duaascripts.github.io/PAK_Hidden_Gems/)
 
 ## Features
-- Stunning visuals of the northern areas of Pakistan
-- Informative descriptions of each location
-- Parallax scrolling effect for an engaging user experience
-- Built with HTML and CSS
+- Responsive design
+- Parallax scrolling effect
+- Beautiful images and informative descriptions
+
+## Note
+Please respect my work and do not clone this project. If you have any questions or feedback, feel free to reach out!
 
 ## Technologies Used
 - HTML
 - CSS
-
-## Inspiration
-This project was inspired by my love for travel and my interest in showcasing the beauty of Pakistan.
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/PAK_Hidden_Gems.git
