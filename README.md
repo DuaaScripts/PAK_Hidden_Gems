@@ -1,4 +1,4 @@
-# PAK Hidden Gems
+# 🇵🇰 PAK Hidden Gems
 
 A responsive website showcasing the breathtaking northern areas of Pakistan, featuring beautiful images and short descriptions of various destinations. This project is part of my HTML and CSS learning journey, reflecting my passion for Pakistan, patriotism, and love for travel.
 
